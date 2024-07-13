@@ -39,3 +39,11 @@ __pip install ``nom du module``__
 
 ## Acknowledgments
 Proposer et coordonner par Dr Paulin Melatagia.
+
+## Méthodologie
+
+1. Prétraitement des images (redimensionnement, normalisation des pixels)
+2. Extraction des caractéristiques visuelles (couleurs, formes, textures)
+3. Entraînement d'un modèle SVM sur un jeu de données d'images de fruits
+4. Évaluation du modèle sur un ensemble de test
+5. Optimisation des hyperparamètres du modèle SVM
